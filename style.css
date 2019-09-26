@@ -33,30 +33,29 @@
 
 #main #history h3 {
   font-style: italic;
-  margin:2px;
+  margin-bottom: :100px;
 }
 
 #main #history h4 {
   font-size: 50px;
   font-style: italic;
-  margin:2px;
+  margin-bottom: 20px;
 }
 
 #main #history h5 {
   font-size: 30px;
   font-style: italic;
-  margin:2px;
+  margin-bottom: 5px;
 }
 #main #history h6 {
   font-style: italic;
   font-size: 25px;
-  margin:2px;
+  margin-bottom: 10px;
 }
 #main #history h7 {
-  font-style: italic;
-  font-size: 15px;
+  font-size: 20px;
   margin-top:2px;
-  margin-bottom: 2px;
+  margin-bottom: 10px;
 }
 #main #history h8 {
   border-top: 15px;
@@ -65,6 +64,7 @@
   border-bottom: 16px;
   margin-top:10px;
 }
+
 #main #history ul {
   list-style: square;
 }
