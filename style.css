@@ -52,12 +52,18 @@
   font-size: 25px;
   margin:2px;
 }
+#main #history h7 {
+  font-style: italic;
+  font-size: 15px;
+  margin-top:2px;
+  margin-bottom: 2px;
+}
 #main #history h8 {
   border-top: 15px;
   font-style: italic;
   font-size: 25px;
   border-bottom: 16px;
-  margin:2px;
+  margin-top:10px;
 }
 #main #history ul {
   list-style: square;
