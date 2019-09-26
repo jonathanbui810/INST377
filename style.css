@@ -18,9 +18,9 @@
   margin: auto;
 }
 #main #pic img {
-  height: auto;
-  width: 100%;
-  border: 10px #ff7b25
+  height: 50px;
+  width: 50px;
+  border: 30px #ff7b25
 }
 #TopHeading h1 {
   color: ##034f84;
@@ -50,6 +50,7 @@
 }
 
 #main #history h8 {
+  border-top: 15px;
   font-style: italic;
   font-size: 16px;
   border-bottom: 16px;
