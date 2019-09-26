@@ -6,8 +6,8 @@
     (Q2-5) Style the work history entries from Q1-5 so that they all end up consistent in their appearance. Change at least 5 properties. */
 
 #TopHeading {
-  background-color: #36486b;
-  color: #fefbd8;
+  background-color: #f7cac9;
+  color: #034f84;
   text-align: center;
   font-size: 20px;
   border-radius: 15px;
@@ -48,12 +48,12 @@
   font-style: italic;
   font-size: 25px;
 }
-
 #main #history h8 {
   border-top: 15px;
   font-style: italic;
-  font-size: 16px;
+  font-size: 25px;
   border-bottom: 16px;
+
 }
 #main #history ul {
   list-style: square;
