@@ -67,7 +67,12 @@
   border-bottom: 16px;
   margin-top:20px;
 }
-
+#main #pic h9 {
+  font-weight: bold;
+  font-size: 25px;
+  border-bottom: 16px;
+  margin-top:20px;
+}
 #main #history ul {
   list-style: square;
   font-size: 20px;
