@@ -39,13 +39,13 @@
 #main #history h4 {
   font-size: 50px;
   font-style: italic;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 
 #main #history h5 {
   font-size: 30px;
   font-style: italic;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 #main #history h6 {
   font-style: italic;
@@ -58,8 +58,8 @@
   margin-bottom: 10px;
 }
 #main #history h8 {
-  border-top: 15px;
-  font-style: italic;
+  border-top: 30px;
+  font-style: bold;
   font-size: 25px;
   border-bottom: 16px;
   margin-top:10px;
@@ -67,4 +67,5 @@
 
 #main #history ul {
   list-style: square;
+  font-size: 20px;
 }
